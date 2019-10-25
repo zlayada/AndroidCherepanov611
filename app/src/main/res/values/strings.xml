@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лог активити</string>
+    <string name="log_activity">Log activity:\n</string>
+
+</resources>
